@@ -1,0 +1,16 @@
+/// Create a function that finds the maximum range of a triangles third edge. /// 
+
+
+int b;
+int h;
+
+cin >> "Enter the base of a triangle: " << cout << endl;
+cout << "The base of a triangle is: " << b << endl;
+
+cin >> "Enter a height of a triangle: " << endl;
+cout << "The height of a triangle is: " << h << endl;
+
+int Area;
+Area = b * h / 2;
+
+cout << "The area of this triangle is: " << Area << endl;
